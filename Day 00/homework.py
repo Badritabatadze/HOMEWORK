@@ -51,23 +51,6 @@ penup()
 goto(200, 200)
 pendown()
 
-width(7)
-color("blue")
-begin_fill()
-forward(50)
-left(40)
-
-forward(50)
-left(40)
-
-forward(50)
-left(40)
-
-forward(50)
-left(40)
-end_fill()
-
-
 
 
 
