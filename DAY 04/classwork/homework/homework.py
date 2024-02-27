@@ -1,6 +1,3 @@
-from turtle import *
-
-
 name = input(" enter your name :") # badri
 lastname = input(" enter your lastname :")
 age = input(" enter your age :") # 13
