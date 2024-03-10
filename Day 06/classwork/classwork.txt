@@ -1,0 +1,2 @@
+# implicit = აუტომატური
+# explicit = მექანიკური(int,str,float)
